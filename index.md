@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ## Comp Sci is Cool!
 ### I have CS180 after this
 
- I like the labs for this class
+- I like the labs for this class
 - I like the class being evey other week
 - I like to code on github
 
